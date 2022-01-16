@@ -3,7 +3,7 @@ Simple Application to Calculate Integral with Monte-Carlo methods this methods u
 
 First Version Note 
 - This Only Calculate Func = X so if you want change the function you can change the function func(x)
-- This dont have Graph Output (Still on Process)
+- This project don't produce output (Still on Process)
 
 Hope your Enjoy 
 FYI you need to Import Numpy,Math Library
